@@ -5,6 +5,6 @@ Save data in Realm Database
 
 
 
-![](photos/places1.jpg)
-![](photos/places2.jpg)
-![](photos/places3.jpg)
+![](photos/places1.png)
+![](photos/places2.png)
+![](photos/places3.png)
